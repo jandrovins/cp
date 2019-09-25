@@ -1,0 +1,15 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-Wall",
+            "-std=c++11",
+            "-o",
+            "solution",
+            "solution.cpp"
+        ],
+        "directory": "/home/vincent/Documents/programacion/codeforces/1108D.DiverseGarland.2019-01-30",
+        "file": "solution.cpp"
+    }
+]

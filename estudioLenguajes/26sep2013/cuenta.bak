@@ -1,0 +1,14 @@
+#include <bits/stdc++.h>
+
+using namespace std;
+
+class Cuenta
+{
+    public:
+        virtual float obtenerSaldo() = 0;
+        virtual void consignar(float valor) = 0;
+        virtual void retirar(float valor) = 0;
+    protected:
+        float saldo = 0;
+};
+

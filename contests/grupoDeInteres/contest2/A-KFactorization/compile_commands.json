@@ -1,0 +1,15 @@
+[
+    {
+        "arguments": [
+            "g++",
+            "-c",
+            "-Wall",
+            "-std=c++11",
+            "-o",
+            "solution",
+            "solution.cpp"
+        ],
+        "directory": "/home/vincent/Documents/programacion/contests/grupoDeInteres/contest2/A-KFactorization",
+        "file": "solution.cpp"
+    }
+]
