@@ -24,6 +24,8 @@ int main()
             else
                 state = 0;
         }
+
+        // Making fibonacci:
         long long n_2 = 1, n_1 = 2;
         long long total = 0;
 
@@ -34,7 +36,7 @@ int main()
             total += n_1;
 
         long long tmp;
-        for (; it != cadena.rend(); ++it){
+        for (; it != cadena.rend(); ++it) {
             tmp = n_2 + n_1;
             tmp %= 524288;
             if (*it == 1) {
