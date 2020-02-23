@@ -1,2 +1,2 @@
 # cp - My Competitive Programming repo
-Repository in which I will place my solutions to Competitive Programming problems. Also, some implementations of 
+Repository in which I will place my solutions to Competitive Programming problems. Also, some implementations of basics algorithms.
